@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.3",
+    "random": "^3.0.6",
+    "simple-git": "^3.10.0"
+  }
+}
